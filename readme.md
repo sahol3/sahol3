@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Sahol 👋<br><br>Student builder from Bangladesh focused on AI, automation, and systems engineering.<br><br>I build to replace manual work, create leverage, and learn fundamentals deeply.<br>Less interest in flashy demos. More interest in robust systems that actually run.<br>Currently exploring:<br>- AI agents & workflow automation<br>- Python, JS, C, C++ from first principles<br>- Low-cost hardware, security, and ethical hacking<br>- Building Kronx long-term<br>- Bits of SaaS ideas.<br><br>This repo is a record of experiments, evolving systems, and ideas in progress.<br>What are you doing here anyway?
+Hi, I’m Sahol 👋<br><br>Founder of https://kronx.tech/<br><br>Student builder from Bangladesh focused on AI, automation, and systems engineering.<br><br>I build to replace manual work, create leverage, and learn fundamentals deeply.<br>Less interest in flashy demos. More interest in robust systems that actually run.<br>Currently exploring:<br>- AI agents & workflow automation<br>- Python, JS, C, C++ from first principles<br>- Low-cost hardware, security, and ethical hacking<br>- Building Kronx long-term<br>- Bits of SaaS ideas.<br><br>This repo is a record of experiments, evolving systems, and ideas in progress.<br>What are you doing here anyway?
 
 
 ## 🌐 Socials:
